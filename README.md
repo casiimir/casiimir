@@ -14,7 +14,7 @@ My name is Casimiro and I so want to be a good developer. I'll do whatever it ta
 
 ### Github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=casiimir&count_private=true&title_color=764ABC&icon_color=21759B&text_color=0C2233&custom_title=Casiimir+GitHub+Stats&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=casiimir&count_private=true&title_color=764ABC&icon_color=21759B&text_color=0C2233&custom_title=Casiimir+GitHub+Stats&show_icons=true" align="center"/>
 
 ---
 
