@@ -1,6 +1,6 @@
 <img src="/coding.png" alt="banner" align="center"/>
 
-### Hi there and welcome to my GitHub page 👋
+### Hi there!
 
 My name is Casimiro and I so want to be a good developer. I'll do whatever it takes to get there! I'm experimenting with a lot of thing for now and GitHub it's my warehouse. Maybe you can find something interesting! 💻
 
