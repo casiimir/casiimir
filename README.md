@@ -5,7 +5,6 @@
 My name is Casimiro and I so want to be a good developer. I'll do whatever it takes to get there! I'm experimenting with a lot of thing for now and GitHub it's my warehouse. Maybe you can find something interesting! 💻
 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Advanced Javascript, React and Node.js
 - 👯 I’m looking to collaborate on stunning projects
 - ⚡ Fun fact: I have a master's degree in Philosophy!
