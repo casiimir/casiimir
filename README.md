@@ -1,4 +1,4 @@
-<img src="/coding.png" alt="banner" width="500" align="center"/>
+<img src="/coding.png" alt="banner" align="center"/>
 
 ### Hi there and welcome to my GitHub page 👋
 
