@@ -11,13 +11,7 @@ My name is Casimiro and I so want to be a good developer. I'll do whatever it ta
 ---
 
 
-### Github stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=casiimir&count_private=true&title_color=764ABC&icon_color=21759B&text_color=0C2233&custom_title=Casiimir+GitHub+Stats&show_icons=true"/>
-
-
----
-
-### My field of study:
+<h3 align="center">my field of study</h3>
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
