@@ -3,9 +3,9 @@
 
 <h2 align="center">Hi there 🖖🏻</h2>
 
-My name is Casimiro, I so want to be a skilled <strong>software engineer</strong>. I'll do whatever it takes to get there! I'm experimenting with a lot of thing for now and GitHub it's my warehouse. Maybe you can find something interesting! 💻
+My name is Casimiro, I so want to be a skilled <strong>software engineer</strong>. I'll do whatever it takes to get there! I'm experimenting with a lot of thing for now and GitHub it's my warehouse. Maybe you can find something interesting! 
 - 🌱 I’m currently learning Advanced Javascript and React
-- 👯 I’m currently working on a Web App that uses Machine Learning face recognitions API.
+- 💻 I’m currently working on a Web App that uses Machine Learning face recognitions API.
 - ⚡ Fun fact: I have a master's degree in Philosophy!
 
 ---
