@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi there 🖖🏻</h2>
 
-My name is Casimiro, I really want to be a skilled <strong>software engineer</strong> and I'll do whatever it takes to get there!
+My name is Casimiro, I really want to be a skilled <strong>software engineer</strong> and I'll do whatever it takes to get there!!
 Actually I'm experimenting with a lot of thing for now, GitHub it's my warehouse, maybe you can find something interesting here! 
 
 - 🌱 Actually I'm learning Advanced Javascript and React
