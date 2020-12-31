@@ -1,5 +1,5 @@
 <img src="/coding.png" alt="banner" align="center"/>
-
+<img src="https://picsum.photos/300/300" alt="random-image" align="center"/>
 
 <h2 align="center">Hi there 🖖🏻</h2>
 
