@@ -1,6 +1,6 @@
 <img src="/coding.png" alt="banner" align="center"/>
 
-<h2 align="center">Hi there 🖖🏻</h2>
+<h2 align="center">Hi there🖖🏻</h2>
 
 My name is Casimiro, I'm actually experimenting with a lot of things, GitHub it's my warehouse, maybe you can find something interesting here! 
 
