@@ -8,7 +8,7 @@ My name is Casimiro, I'm actually experimenting with a lot of things, GitHub it'
 - 💻 and working on a Web App that uses Machine Learning face recognitions API
 - ⚡ Fun fact: I have a master's degree in Philosophy
 
----
+----
 
 
 <h3 align="center">my field of study:</h3>
