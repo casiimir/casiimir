@@ -4,8 +4,6 @@
 
 My name is Casimiro, I'm actually experimenting with a lot of things, GitHub it's my warehouse, maybe you can find something interesting here! 
 
-- 🌱 Actually I'm following a bootcamp on React Dev!!
-- 💻 and working on a Web App that uses Machine Learning face recognitions API
 - ⚡ Fun fact: I have a master's degree in Philosophy
 
 ----
